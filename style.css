@@ -1,0 +1,39 @@
+#logo{
+  background-color: #ddd;
+  border: 1px solid darkgrey;
+  width: 200px;
+  height: 70px;
+}
+li{
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  margin: 0px;
+}
+
+ul{
+  width: 100%;
+}
+
+img{
+  border: 1px solid darkgrey;
+  float: left;
+  margin: 30px;
+}
+em {
+  font-weight: bold;
+}
+
+p {
+  display: inline-block;
+  width: 400px;
+  height:350px;
+  overflow: hidden;
+  overflow-y: scroll;
+ }
+
+ button:hover {
+   color: white;
+ }
+
+
