@@ -1,0 +1,64 @@
+#logo{
+  position: relative;
+  left: 30px;
+  background-color: #ddd;
+  border: 1px solid darkgrey;
+  width: 200px;
+  height: 70px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+li{
+  position: relative;
+  left: 30px;
+  height: 70px;
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  margin: 0px;
+  line-height: 70px;
+  width: 180px;
+}
+
+ul{
+  width: 100%;
+}
+
+img{
+  border: 1px solid darkgrey;
+  float: left;
+  margin: 30px;
+}
+
+em {
+  font-weight: bold;
+}
+
+p {
+  display: inline-block;
+  margin-top: 25px;
+  width: 400px;
+  height:350px;
+  overflow: hidden;
+  overflow-y: scroll;
+ }
+
+ button:hover {
+   color: white;
+ }
+button{
+  width:250px;
+  border-radius: 25px;
+}
+ footer{
+   display: inline-block;
+   position: relative;
+   left: 30px;
+   width: 960px;
+   height: 100px;
+   background-color: #ddd;
+   border: 1px solid darkgray;
+   margin-bottom: 30px;
+ }  
+
